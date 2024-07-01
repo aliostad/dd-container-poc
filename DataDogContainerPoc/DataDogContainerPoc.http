@@ -1,0 +1,6 @@
+@DataDogContainerPoc_HostAddress = http://localhost:5079
+
+GET {{DataDogContainerPoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
